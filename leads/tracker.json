@@ -1,0 +1,17 @@
+{
+  "leads": [],
+  "outreach": {
+    "sent": 0,
+    "replied": 0,
+    "converted": 0
+  },
+  "revenue": {
+    "total": 0,
+    "transactions": []
+  },
+  "budget": {
+    "starting": 100,
+    "spent": 0,
+    "remaining": 100
+  }
+}
